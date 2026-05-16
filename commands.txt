@@ -1,0 +1,38 @@
+https://alison.com/topic/learn/133442/git-commands
+rtapadia@gmail.com/Tapadia@111
+
+rtapadia@gmail.com
+tapadia@git1 (git)
+
+git init
+dir /a
+dir .git
+git status
+
+git add Authorization
+git add UserManagement
+git add CatalogManagement
+git add commands.txt
+
+git rm --cached commands.txt
+
+git status
+git add commands.txt
+git status
+
+git remote add origin https://github.com/rtapadia/librarymanagementsystem.git
+git remote -v
+
+git commit -m "initial commit"
+
+git push origin master
+
+------------------------------------
+
+git diff
+
+https://github.com/rtapadia/librarymanagementsystem
+
+
+
+git remote add origin https://github.com/rtapadia/librarymanagementsystem
